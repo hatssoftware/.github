@@ -1,5 +1,6 @@
 # holi autisti
-welcome to <code>holiautisti</code>
+welcome to **holiautisti** 
+<code>const group =  [ Steveruu, MartinHoly00, adamurbanek, toncekr, JsemHarry7, ChlebaDev ]</code>
 
 ## [Steveruu](https://github.com/steveruu)  
 [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=steveruu&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)  
