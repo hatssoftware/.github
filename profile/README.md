@@ -1,4 +1,6 @@
-# holi autisti
-welcome to **holiautisti**   
+# HATS Software
+### (a kamaradi)
+welcome to **HATS Software extended**   
 
-<code>const group =  [ Steveruu, MartinHoly00, adamurbanek, toncekr, JsemHarry7, ChlebaDev ]</code>
+<code>const hats = [JsemHarry7, adamurbanek, toncekr, steveruu]</code>  
+<code>const hats_a_kamaradi = [...hats, MartinHoly00, ChlebaDev]</code>
